@@ -1,0 +1,12 @@
+{
+  "domains": {
+    "sqndash.dpdns.org": {
+      "expiry_date": "2027-09-28",
+      "days_remaining": 323,
+      "renew_before_days": 120,
+      "status": "ok",
+      "last_action": "permanent",
+      "checked_at": "2026-11-09T13:12:36+00:00"
+    }
+  }
+}
